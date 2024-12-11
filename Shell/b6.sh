@@ -1,5 +1,4 @@
 #!/bin/bash
-start_value=10
 read -p "Nhap ten file muon tao: " name
 read -p "Nhap so luong file can tao: " number
 let n=number+10
